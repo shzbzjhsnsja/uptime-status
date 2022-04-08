@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '阿伟の小屋 服务器状态监控室',
 
   // 站点链接
   SiteUrl: '/',
@@ -35,7 +35,7 @@ window.Config = {
       url: 'https://status.org.cn/'
     },
     {
-      text: 'GitHub',
+      text: '关于',
       url: 'https://github.com/yb/uptime-status'
     }
   ]
